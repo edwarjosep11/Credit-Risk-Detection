@@ -1,4 +1,4 @@
-# Credit-Risk-Detection
+# Credit Risk Detection: Working with Imbalanced Datasets
 
 ## Objective
 This notebook explores techniques to improve the accuracy of a machine learning model for credit card fraud detection. The dataset used for this project contains anonymized credit card transactions that occurred in September 2013, with 492 fraudulent transactions out of a total of 284,807 transactions. The dataset is highly unbalanced, with frauds accounting for only 0.172% of all transactions.
